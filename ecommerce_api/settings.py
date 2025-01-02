@@ -29,7 +29,7 @@ ALLOWED_HOSTS = ['*']
 
 # Trusted origins for CSRF
 CSRF_TRUSTED_ORIGINS = [
-    'https://btobapi-production.up.railway.app','https://apib2b-production.up.railway.app','https://sadapi-production.up.railway.app'
+    'https://btobapi-production.up.railway.app','https://apib2b-production.up.railway.app','https://sadapi-production.up.railway.app',
 ]
 
 # Application definition
